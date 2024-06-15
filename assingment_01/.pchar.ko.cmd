@@ -1,0 +1,1 @@
+cmd_/home/radheradhe/Desktop/device_driver/pchar02/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/radheradhe/Desktop/device_driver/pchar02/pchar.ko /home/radheradhe/Desktop/device_driver/pchar02/pchar.o /home/radheradhe/Desktop/device_driver/pchar02/pchar.mod.o;  true

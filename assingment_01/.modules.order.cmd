@@ -1,0 +1,1 @@
+cmd_/home/radheradhe/Desktop/device_driver/pchar02/modules.order := {   echo /home/radheradhe/Desktop/device_driver/pchar02/pchar.ko; :; } > /home/radheradhe/Desktop/device_driver/pchar02/modules.order
