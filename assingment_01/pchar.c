@@ -149,6 +149,6 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Nilesh Ghule <nilesh@sunbeaminfo.com>");
+MODULE_AUTHOR("SANJAY SAINI");
 MODULE_DESCRIPTION("Simple pchar driver with kfifo as device.");
 
